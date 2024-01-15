@@ -1,9 +1,8 @@
+// SIMPLE CALCULATOR IN JAVA
 import java.util.Scanner;
 
 public class simpleCaculator{
-
 public static void main(string[] args){
-
       additon();
     System.out.println("additn is ended");
       subtraction();
