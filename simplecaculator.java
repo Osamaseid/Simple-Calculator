@@ -1,6 +1,5 @@
 // SIMPLE CALCULATOR IN JAVA
 import java.util.Scanner;
-
 public class simpleCaculator{
 public static void main(string[] args){
       additon();
@@ -13,7 +12,7 @@ public static void main(string[] args){
     System.out.println("division is ended");
       remainder();
     System.out.println("remainder is ended");
-                             }
+            }
 public static void additon(){
 
     Scnnner input=new Scanner(system.in);
